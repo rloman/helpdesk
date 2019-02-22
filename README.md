@@ -2,4 +2,4 @@
 Repository for creating issues for everyone!
 
 # Manual
-Please enter any issue by clicking the issue button above!
+Please enter any issue by clicking the issues button above!
